@@ -5,6 +5,11 @@ Blue
 Purple
 Yellow
 Pink
+
 I can hit you with my head
+=======
+Indigo
+
 These are the colors of the rainbow.
 I added Llamas too
+Pony is also added.
