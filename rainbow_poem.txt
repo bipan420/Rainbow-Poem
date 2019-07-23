@@ -1,4 +1,4 @@
-The rainbow colors:
+The rainbow colors and the Llamas:
 Red
 Green
 Blue
@@ -6,3 +6,4 @@ Purple
 Yellow
 Pink
 These are the colors of the rainbow.
+I added Llamas too
