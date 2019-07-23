@@ -5,6 +5,6 @@ Blue
 Purple
 Yellow
 Pink
-Indigo
 These are the colors of the rainbow.
 I added Llamas too
+Pony is also added.
